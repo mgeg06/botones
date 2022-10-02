@@ -26,6 +26,7 @@ _En esta primera captura se puede ver la interfaz terminada por medio de Card_
 _En esta segunda captura, se registra el resultado obtenido cada vez que se pulsa unos de los botones vinculados a cada secciòn y esta se muestra en la consola_
 
 <p align="center"><img src="https://user-images.githubusercontent.com/107955084/193474782-7bba8603-0603-4afd-9369-b91e90166aa8.png" width="70%"/></p>
+
 _En esta ùltima se observa màs a detalle la parte de las materia, junto con los datos correspondientes_
 
 <p align="center"><img src="https://user-images.githubusercontent.com/107955084/193479260-f6555874-a2bf-42e1-9520-431969d896ce.png" width="70%"/></p>
@@ -53,5 +54,5 @@ _En esta ùltima se observa màs a detalle la parte de las materia, junto con lo
 
 ## Versiòn 📌
 
-_v1_
+_v1.0_
 
