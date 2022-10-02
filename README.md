@@ -21,10 +21,13 @@ junto con sus materias e incluso los docentes que estan impartiendo dicha asigna
 ### Resultados 🔧⚙️
 _En esta primera captura se puede ver la interfaz terminada por medio de Card_
 
-![Captura de pantalla (448)](https://user-images.githubusercontent.com/107955084/193474771-35230fe6-3407-4fbc-9154-5a164dd88966.png)
-_ en esta segunda captura se puede ver que 
+<p align="center"><img src="https://user-images.githubusercontent.com/107955084/193474771-35230fe6-3407-4fbc-9154-5a164dd88966.png" width="70%"/></p>
 
-![Captura de pantalla (449)](https://user-images.githubusercontent.com/107955084/193474782-7bba8603-0603-4afd-9369-b91e90166aa8.png)
+_En esta segunda captura se registra el resultado obtenido cada vez que se pulsa unos de los botones y esta se registra en la consola_
+
+<p align="center"><img src="https://user-images.githubusercontent.com/107955084/193474782-7bba8603-0603-4afd-9369-b91e90166aa8.png" width="70%"/></p>
+
+
 
 ## Datos de la asignatura 📖
 
@@ -43,6 +46,7 @@ _ en esta segunda captura se puede ver que
 
 
 * **Nombre Completo** - *Maria Guadalupe Espinoza Garcia*
+<p align="left"><img src="https://user-images.githubusercontent.com/107955084/193477951-13aed67f-cab9-47f7-9a3e-a281afda8235.jpg" width="10%"/></p>
 
 ## Versiòn 📌
 
